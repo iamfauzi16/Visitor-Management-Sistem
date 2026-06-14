@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/screenshots/background-github.jpg" alt="Softwaremaju" width="300"/>
+  <img src="docs/screenshots/background-github.jpg" alt="Softwaremaju" width="100%"/>
 </p>
 
 <p align="center">
